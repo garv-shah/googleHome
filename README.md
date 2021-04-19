@@ -6,4 +6,4 @@ Update:
 I've gotten the Google Home to work almost flawlessly with a web server on my laptop. This could lead to some pretty cool applications such a TTS Email Client for my Mum
 
 To Do:
-[] Get my hands on a capture card for the camcorder
+- [ ] Get my hands on a capture card for the camcorder
